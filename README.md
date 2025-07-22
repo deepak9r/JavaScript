@@ -1,5 +1,5 @@
 # The Algorithms - JavaScript
-
+#Deepak Prajapati
 <!-- Front Matter -->
 
 JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript.
